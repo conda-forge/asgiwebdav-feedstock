@@ -1,5 +1,5 @@
 context:
-  version: "2.2.1"
+  version: "2.3.0"
 
 package:
   name: asgiwebdav
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/asgiwebdav/asgiwebdav-${{ version }}.tar.gz
-  sha256: b192ee7d601d240dca019efbb7a70bf5e87bff7f3dc98e7b2ec56084f0699e83
+  sha256: 5ff7f4d94f74c5395061b3872f5ef13839277139bbe37f603d8ef9edb3861840
 
 build:
   number: 0
